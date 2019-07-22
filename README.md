@@ -1,8 +1,9 @@
-# vscode-jest-snippets
+# vscode-bs-jest-snippets
 
+Forked from:
 [![Version](https://vsmarketplacebadge.apphb.com/version/andys8.jest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
 
-[Jest](https://facebook.github.io/jest) snippets extension for [Visual Studio Code](https://code.visualstudio.com/).
+[bs-jest](https://github.com/glennsl/bs-jest) snippets extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Snippets
 
